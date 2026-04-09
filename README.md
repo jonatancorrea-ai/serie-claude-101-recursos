@@ -18,7 +18,7 @@ Primer recurso de la serie donde recopilo los “modos ocultos” para sacarle m
 - Negocios y marcas personales que quieren escalar sus resultados.
 - Personas que quieren entender la IA desde lo práctico, sin tecnicismos innecesarios.
 
-No necesitas serun experto ni saber programar, solo una cuenta gratuita de Claude y tus ganas de aprender harás cosas increíbles.
+No necesitas ser un experto ni saber programar: con una cuenta gratuita de Claude y ganas de practicar, puedes hacer cosas increíbles.
 
 ---
 
