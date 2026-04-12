@@ -1,6 +1,6 @@
-# CÓDIGOS SECRETOS CLAUDE AI (FREE)
+# Códigos secretos de Claude AI | Cuentas Free, PRO y MAX
 
-Guía rápida de “códigos ocultos” para sacarle el máximo rendimiento a Claude usando solo texto, en su versión gratuita.
+Guía rápida de “códigos ocultos” para sacarle el máximo rendimiento a Claude usando solo texto, válidos para todas las cuentas.
 
 ---
 
