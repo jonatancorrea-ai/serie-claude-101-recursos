@@ -4,11 +4,11 @@ Este repositorio reúne los recursos de mi serie **CLAUDE 101**, donde enseño a
 
 La idea es que puedas seguir los videos y tener aquí, bien ordenados, los prompts, workflows y sistemas que uso y muestro en pantalla.
 
-## 🧠 CÓDIGOS SECRETOS CLAUDE AI (FREE)
+## 🧠 Códigos secretos de Claude AI
 
-Primer recurso de la serie donde recopilo los “modos ocultos” para sacarle más provecho a Claude en su versión gratuita.
+Primer recurso de la serie donde recopilo los “códigos ocultos” para sacarle más provecho a Claude en su versión gratuita.
 
-👉 [Ver CÓDIGOS SECRETOS CLAUDE AI](CODIGOS-SECRETOS-CLAUDE-AI/codigos-secretos-claude-ai.md)
+👉 [Ver Códigos secretos de Claude AI](CODIGOS-SECRETOS-CLAUDE-AI/codigos-secretos-claude-ai.md)
 
 ---
 
