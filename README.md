@@ -8,7 +8,7 @@ La idea es que puedas seguir los videos y tener aquí, bien ordenados, los promp
 
 Primer recurso de la serie donde recopilo los “códigos ocultos” para sacarle más provecho a Claude en su versión gratuita.
 
-👉 [Ver Códigos secretos de Claude AI](CODIGOS-SECRETOS-CLAUDE-AI/codigos-secretos-claude-ai.md)
+👉 [Ver códigos secretos de Claude AI](CODIGOS-SECRETOS-CLAUDE-AI/codigos-secretos-claude-ai.md)
 
 ---
 
