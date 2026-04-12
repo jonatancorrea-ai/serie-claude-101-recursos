@@ -1,10 +1,10 @@
 # CÓDIGOS SECRETOS CLAUDE AI (FREE)
 
-Guía rápida de “modos ocultos” para sacarle el máximo rendimiento a Claude usando solo texto, en su versión gratuita.
+Guía rápida de “códigos ocultos” para sacarle el máximo rendimiento a Claude usando solo texto, en su versión gratuita.
 
 ---
 
-## 🧠 Modos de pensamiento y razonamiento
+## 🧠 Códigos de pensamiento y razonamiento
 
 ### `x10think` (o `[EXTENDED THINKING]`)
 
@@ -30,7 +30,7 @@ Guía rápida de “modos ocultos” para sacarle el máximo rendimiento a Claud
 
 ---
 
-## 👤 Modos de personalidad y tono
+## 👤 Códigos de personalidad y tono
 
 ### `/human` (o `[NATURAL TONE]`)
 
@@ -56,7 +56,7 @@ Guía rápida de “modos ocultos” para sacarle el máximo rendimiento a Claud
 
 ---
 
-## ✂️ Modos de optimización (ahorro de tokens)
+## ✂️ Códigos de optimización (ahorro de tokens)
 
 ### `ULTRA-CONCISE` (o `NO-PROSE`)
 
@@ -82,7 +82,7 @@ Guía rápida de “modos ocultos” para sacarle el máximo rendimiento a Claud
 
 ---
 
-## 📊 Modos de formato y estructura
+## 📊 Códigos de formato y estructura
 
 ### `JSON-ONLY`
 
@@ -108,7 +108,7 @@ Guía rápida de “modos ocultos” para sacarle el máximo rendimiento a Claud
 
 ---
 
-## 🛠 Modos de control de contenido
+## 🛠 Códigos de control de contenido
 
 ### `NO-HALLUCINATIONS`
 
@@ -134,7 +134,7 @@ Guía rápida de “modos ocultos” para sacarle el máximo rendimiento a Claud
 
 ---
 
-## 📁 Comandos “virtuales” de memoria
+## 📁 Códigos “virtuales” de memoria
 
 ### `ADD-TO-MEMORY`
 
@@ -152,7 +152,7 @@ Guía rápida de “modos ocultos” para sacarle el máximo rendimiento a Claud
 
 ---
 
-## 🎨 Modos creativos
+## 🎨 Códigos creativos
 
 ### `VIBE-CHECK`
 
