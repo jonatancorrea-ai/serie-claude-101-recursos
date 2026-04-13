@@ -14,9 +14,9 @@ Primer recurso de la serie donde recopilo los “códigos ocultos” para sacarl
 
 ## ✨ ¿Para quién es esto?
 
-- Creadores de contenido que quieren usar IA de manera correcta sin volverse técnicos.
-- Negocios y marcas personales que quieren escalar sus resultados.
-- Personas que quieren entender la IA desde lo práctico, sin tecnicismos innecesarios.
+- Creadores que quieren usar Claude de manera correcta sin tener que ser expertos.
+- Negocios y marcas personales que buscan escalar sus resultados utilizando Claude.
+- Personas que quieren entender Claude desde lo práctico, sin tecnicismos innecesarios.
 
 No necesitas ser un experto ni saber programar: con una cuenta gratuita de Claude y ganas de practicar, puedes hacer cosas increíbles.
 
@@ -26,7 +26,7 @@ No necesitas ser un experto ni saber programar: con una cuenta gratuita de Claud
 
 1. Elige un episodio de la serie CLAUDE 101.
 2. Abre la carpeta correspondiente a ese episodio.
-3. Copia y adapta los prompts y workflows a tu contexto.
+3. Copia y adapta los prompts, skills, códigos y workflows a tu contexto.
 4. Guarda tus propias versiones (en tu Notion, Google Docs, etc.).
 
 ---
@@ -44,15 +44,18 @@ En cada carpeta iré añadiendo archivos `.md` con los prompts y explicaciones q
 
 ---
 
-## 🎥 Episodios de CLAUDE 101
+## 🎥 Episodios de CLAUDE 101: De novato a experto ⚡
 
-*(Ejemplo, luego ajustas los títulos y links)*
-
-- Episodio 1 – Introducción a Claude gratis: explicación básica y primer contacto.  
-- Episodio 2 – Prompts que siempre funcionan para contenido.  
-- Episodio 3 – Sistema simple para planificar una semana completa de contenido.  
-
-Pronto añadiré aquí los enlaces directos a TikTok, Instagram y YouTube.
+- Episodio 1 – Introducción a Claude AI: Exploración 360 de la plataforma.  
+- Episodio 2 – Entendiendo que son los conectores, proyectos, skills y artefactos.  
+- Episodio 3 – Conectando tus apps y herramientas favoritas con Claude AI.
+- Episodio 4 - Creando tu primer proyecto desde cero.
+- Episodio 5 - Crea tus skills PRO.
+- Episodio 6 - Skills + Conectores en tu proyecto.
+- Episodio 7 - Los artefactos y su utilidad.
+- Episodio 8 - Diseñando webs, apps y juegos sin ser programador.
+- Episodio 9 - Prompts inteligentes para crear artefactos en minutos.
+- Epidosio 10 - Crea tu sistema en Claude.
 
 ---
 
