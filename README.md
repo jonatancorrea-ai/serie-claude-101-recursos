@@ -2,7 +2,7 @@
 
 Este repositorio reúne los recursos de mi serie **CLAUDE 101**, donde enseño a usar Claude en su versión gratuita, sin fricción y paso a paso.
 
-La idea es que puedas seguir los videos y tener aquí, bien ordenados, los prompts, workflows y sistemas que uso y muestro en pantalla.
+La idea es que puedas ver todos los videos de la serie y tener aquí, bien ordenados, los recursos para que practiques todo lo aprendido.
 
 ## 🧠 Códigos secretos de Claude
 
@@ -28,19 +28,6 @@ No necesitas ser un experto ni saber programar: con una cuenta gratuita de Claud
 2. Abre la carpeta correspondiente a ese episodio.
 3. Copia y adapta los prompts, skills, códigos y workflows a tu contexto.
 4. Guarda tus propias versiones (en tu Notion, Google Docs, etc.).
-
----
-
-## 🧱 Estructura (se irá llenando)
-
-- `00-intro/` – Contexto de la serie y requisitos mínimos.
-- `01-setup/` – Cómo crear tu cuenta gratuita de Claude y primeros pasos.
-- `02-prompts-basicos/` – Prompts base para empezar a trabajar con contenido.
-- `03-workflows-contenido/` – Sistemas simples para idear, guionizar y publicar contenido.
-- `04-sistemas-y-automatizaciones/` – Casos algo más avanzados y específicos.
-- `extras/` – Recursos adicionales, plantillas y enlaces.
-
-En cada carpeta iré añadiendo archivos `.md` con los prompts y explicaciones que uso en los videos.
 
 ---
 
