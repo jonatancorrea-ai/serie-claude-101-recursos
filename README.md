@@ -32,9 +32,14 @@ No necesitas ser un experto ni saber programar: con una cuenta gratuita de Claud
 ---
 
 ## 🎥 Episodios de CLAUDE 101: De novato a experto ⚡
+## 🎥 Episodios de CLAUDE 101
 
-- Episodio 1 – Introducción a Claude AI: Exploración 360 de la plataforma.  
-- Episodio 2 – Entendiendo que son los conectores, proyectos, skills y artefactos.  
+| Episodio | Ver en |
+|----------|--------|
+| Episodio 1 – Introducción a Claude AI: Exploración 360 de la plataforma. | [![TikTok](https://img.shields.io/badge/TikTok-ff0050?style=flat-square&logo=tiktok&logoColor=white)](https://www.tiktok.com/@jonatancorreaoficial/video/7615787484542258453?is_from_webapp=1&sender_device=pc&web_id=7617567596943296013) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/p/DVvtcl9kW7p/) |
+| Episodio 2 – Entendiendo que son los conectores, proyectos, skills y artefactos. | [![TikTok](https://img.shields.io/badge/TikTok-ff0050?style=flat-square&logo=tiktok&logoColor=white)](URL_TIKTOK) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](URL_INSTAGRAM) |
+- Episodio 1 –  
+- Episodio 2 – 
 - Episodio 3 – Conectando tus apps y herramientas favoritas con Claude AI.
 - Episodio 4 - Creando tu primer proyecto desde cero.
 - Episodio 5 - Crea tus skills PRO.
