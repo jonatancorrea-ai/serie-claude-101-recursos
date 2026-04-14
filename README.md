@@ -8,7 +8,7 @@ Recursos gratuitos de la serie **CLAUDE 101: De novato a experto ⚡** para que 
 
 **1.** Explora la tabla de recursos y abre el deseas explorar según tu objetivo del momento.
 
-**2.** Copia el prompt, skill o workflow directo a tu Claude — adáptalo a tu contexto (marca, negocio o proyecto) en menos de 3 minutos.
+**2.** Copia la skill, prompt, código o workflow directo en Claude — adáptalo a tu contexto (marca, negocio o proyecto) y en menos de 3 minutos ya tienes un resultado PRO.
 
 **3.** Guarda tu versión personalizada en Notion, Google Docs o donde trabajes habitualmente.
 
