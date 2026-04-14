@@ -6,9 +6,9 @@ Recursos gratuitos de la serie **CLAUDE 101: De novato a experto ⚡** para que 
 
 ## 🚀 Comienza por aquí
 
-**1.** Explora la tabla de recursos y abre el que necesites según tu objetivo del momento.
+**1.** Explora la tabla de recursos y abre el deseas explorar según tu objetivo del momento.
 
-**2.** Copia el prompt, skill o workflow directo a tu Claude — adáptalo a tu contexto en menos de 5 minutos.
+**2.** Copia el prompt, skill o workflow directo a tu Claude — adáptalo a tu contexto (marca, negocio o proyecto) en menos de 3 minutos.
 
 **3.** Guarda tu versión personalizada en Notion, Google Docs o donde trabajes habitualmente.
 
@@ -16,19 +16,19 @@ Recursos gratuitos de la serie **CLAUDE 101: De novato a experto ⚡** para que 
 
 ## 🗂️ Recursos disponibles
 
-### 🔐 Skills
+### 🔐 Códigos en lenaguaje natural
 
 | Recurso | Descripción |
 |--------|-------------|
-| [![Códigos Secretos Claude AI](https://img.shields.io/badge/Códigos%20Secretos%20Claude%20AI-0f071e?style=for-the-badge&logoColor=f7f7f7)](CODIGOS-SECRETOS-CLAUDE-AI/codigos-secretos-claude-ai.md) | Los modos ocultos para sacarle más provecho a Claude en su versión gratuita |
+| [![Códigos Secretos Claude AI](https://img.shields.io/badge/Códigos%20Secretos%20Claude%20AI-0f071e?style=for-the-badge&logoColor=f7f7f7)](CODIGOS-SECRETOS-CLAUDE-AI/codigos-secretos-claude-ai.md) | Los modos ocultos para sacarle más provecho a Claude y obtener mejores respuestas |
 
-### 📝 Plantillas de prompts
+### 📝 Plantillas de prompts inteligentes
 
 | Recurso | Descripción |
 |--------|-------------|
 | [![Próximamente](https://img.shields.io/badge/Próximamente-83579f?style=for-the-badge&logoColor=f7f7f7)](#) | — |
 
-### 🔄 Workflows
+### 🔄 Workflows optimizados
 
 | Recurso | Descripción |
 |--------|-------------|
