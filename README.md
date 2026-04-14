@@ -20,7 +20,7 @@ Recursos gratuitos de la serie **CLAUDE 101: De novato a experto ⚡** para que 
 
 | Recurso | Descripción |
 |--------|-------------|
-| [![Códigos Secretos Claude AI](https://img.shields.io/badge/Códigos%20Secretos%20Claude%20AI-0f071e?style=for-the-badge&logoColor=f7f7f7)](CODIGOS-SECRETOS-CLAUDE-AI/codigos-secretos-claude-ai.md) | Los modos ocultos para sacarle más provecho a Claude y obtener mejores respuestas |
+| [![Códigos Secretos Claude AI](https://img.shields.io/badge/Códigos%20Secretos%20Claude%20AI-0f071e?style=for-the-badge&logoColor=f7f7f7)](CODIGOS-SECRETOS-CLAUDE-AI/codigos-secretos-claude-ai.md) | Los códigos ocultos que tiene Claude para darte mejores respuestas |
 
 ### 📝 Plantillas de prompts inteligentes
 
