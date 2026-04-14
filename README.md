@@ -4,7 +4,7 @@ Recursos gratuitos de la serie **CLAUDE 101: De novato a experto ⚡** para que 
 
 ---
 
-## 🚀 Comienza por aquí
+## 📍 Comienza por aquí
 
 **1.** Explora la tabla de recursos y abre el deseas explorar según tu objetivo del momento.
 
