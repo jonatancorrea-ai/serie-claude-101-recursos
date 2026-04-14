@@ -1,0 +1,706 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <title>Códigos Secretos de Claude AI (FREE) – Jonatan Correa</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="description" content="Lista curada de códigos secretos para exprimir la versión gratuita de Claude AI en contenido, sistemas y creatividad." />
+
+  <!-- Estilos sencillos pero modernos -->
+  <style>
+    :root {
+      --bg: #050816;
+      --card: #0f172a;
+      --accent: #38bdf8;
+      --accent-soft: rgba(56,189,248,0.12);
+      --text: #e5e7eb;
+      --muted: #9ca3af;
+      --border: #1f2937;
+      --danger: #f97373;
+      --font-main: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+      --shadow-soft: 0 18px 45px rgba(15,23,42,0.6);
+      --radius-lg: 18px;
+      --radius-pill: 999px;
+    }
+
+    * {
+      box-sizing: border-box;
+    }
+
+    body {
+      margin: 0;
+      font-family: var(--font-main);
+      background: radial-gradient(circle at top, #0b1120 0, #020617 55%, #000 100%);
+      color: var(--text);
+      -webkit-font-smoothing: antialiased;
+    }
+
+    a {
+      color: inherit;
+      text-decoration: none;
+    }
+
+    .page {
+      min-height: 100vh;
+      display: flex;
+      flex-direction: column;
+    }
+
+    .nav {
+      max-width: 1040px;
+      margin: 0 auto;
+      padding: 18px 20px 8px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 12px;
+    }
+
+    .nav-left {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+    }
+
+    .avatar {
+      width: 34px;
+      height: 34px;
+      border-radius: 50%;
+      border: 1px solid var(--border);
+      background: linear-gradient(145deg, #0f172a, #020617);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-weight: 600;
+      font-size: 16px;
+      color: var(--accent);
+    }
+
+    .nav-meta {
+      display: flex;
+      flex-direction: column;
+      gap: 2px;
+      font-size: 12px;
+    }
+
+    .nav-meta-title {
+      font-weight: 600;
+      letter-spacing: 0.03em;
+      text-transform: uppercase;
+      font-size: 11px;
+      color: var(--muted);
+    }
+
+    .nav-meta-name {
+      font-weight: 500;
+      font-size: 13px;
+    }
+
+    .nav-right {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      font-size: 12px;
+    }
+
+    .badge {
+      padding: 4px 10px;
+      border-radius: var(--radius-pill);
+      border: 1px solid var(--border);
+      background: rgba(15,23,42,0.9);
+      color: var(--muted);
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+    }
+
+    .badge-dot {
+      width: 7px;
+      height: 7px;
+      border-radius: 999px;
+      background: var(--accent);
+      box-shadow: 0 0 0 4px var(--accent-soft);
+    }
+
+    .btn-small {
+      padding: 6px 12px;
+      border-radius: var(--radius-pill);
+      border: 1px solid var(--border);
+      background: rgba(15,23,42,0.9);
+      color: var(--text);
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+      cursor: pointer;
+      font-size: 12px;
+    }
+
+    .btn-small:hover {
+      border-color: var(--accent);
+      color: var(--accent);
+    }
+
+    .hero {
+      flex: 1;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      padding: 10px 16px 40px;
+    }
+
+    .hero-inner {
+      max-width: 1040px;
+      width: 100%;
+      display: grid;
+      grid-template-columns: minmax(0, 1.5fr) minmax(0, 1.2fr);
+      gap: 32px;
+      align-items: center;
+    }
+
+    .chip {
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+      padding: 4px 10px;
+      border-radius: var(--radius-pill);
+      background: rgba(15,23,42,0.9);
+      border: 1px solid var(--border);
+      color: var(--muted);
+      font-size: 11px;
+      text-transform: uppercase;
+      letter-spacing: 0.07em;
+    }
+
+    .chip-tag {
+      padding: 3px 8px;
+      border-radius: var(--radius-pill);
+      background: var(--accent-soft);
+      color: var(--accent);
+      font-weight: 500;
+      font-size: 10px;
+    }
+
+    .hero-title {
+      font-size: clamp(28px, 3.1vw, 36px);
+      line-height: 1.08;
+      margin: 14px 0 10px;
+      font-weight: 700;
+    }
+
+    .hero-title span.highlight {
+      background: linear-gradient(120deg, #38bdf8, #a855f7, #f97316);
+      -webkit-background-clip: text;
+      color: transparent;
+    }
+
+    .hero-subtitle {
+      font-size: 14px;
+      color: var(--muted);
+      line-height: 1.6;
+      max-width: 480px;
+    }
+
+    .hero-sub-bullet {
+      margin-top: 10px;
+      font-size: 13px;
+      color: var(--muted);
+      display: flex;
+      flex-direction: column;
+      gap: 4px;
+    }
+
+    .hero-sub-bullet span {
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+    }
+
+    .hero-cta-row {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 10px;
+      margin-top: 18px;
+    }
+
+    .btn-primary {
+      padding: 10px 18px;
+      border-radius: var(--radius-pill);
+      border: none;
+      background: linear-gradient(135deg, #38bdf8, #0ea5e9);
+      color: #0b1120;
+      font-weight: 600;
+      font-size: 13px;
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+      cursor: pointer;
+      box-shadow: var(--shadow-soft);
+    }
+
+    .btn-primary span.icon {
+      font-size: 15px;
+    }
+
+    .btn-secondary {
+      padding: 9px 15px;
+      border-radius: var(--radius-pill);
+      border: 1px solid var(--border);
+      background: rgba(15,23,42,0.95);
+      color: var(--text);
+      font-size: 12px;
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+      cursor: pointer;
+    }
+
+    .btn-secondary:hover {
+      border-color: var(--accent);
+      color: var(--accent);
+    }
+
+    .hero-meta {
+      margin-top: 16px;
+      display: flex;
+      flex-wrap: wrap;
+      gap: 10px;
+      font-size: 12px;
+      color: var(--muted);
+    }
+
+    .hero-meta-item {
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+      padding: 4px 10px;
+      border-radius: var(--radius-pill);
+      background: rgba(15,23,42,0.9);
+      border: 1px solid var(--border);
+    }
+
+    .pill-dot {
+      width: 6px;
+      height: 6px;
+      border-radius: 999px;
+      background: var(--accent);
+    }
+
+    .hero-right {
+      border-radius: 22px;
+      background: radial-gradient(circle at top left, #22d3ee33, #0b1120 52%, #020617);
+      border: 1px solid var(--border);
+      padding: 18px 16px 16px;
+      box-shadow: var(--shadow-soft);
+      display: flex;
+      flex-direction: column;
+      gap: 12px;
+    }
+
+    .card-header {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      margin-bottom: 4px;
+    }
+
+    .card-title {
+      font-size: 13px;
+      font-weight: 600;
+      display: flex;
+      align-items: center;
+      gap: 8px;
+    }
+
+    .card-title-pill {
+      padding: 2px 8px;
+      border-radius: var(--radius-pill);
+      background: rgba(15,23,42,0.9);
+      border: 1px solid var(--border);
+      font-size: 11px;
+      color: var(--muted);
+    }
+
+    .status-dot {
+      width: 8px;
+      height: 8px;
+      border-radius: 999px;
+      background: #22c55e;
+      box-shadow: 0 0 0 5px rgba(34,197,94,0.18);
+    }
+
+    .code-list {
+      margin: 0;
+      padding: 0;
+      list-style: none;
+      display: flex;
+      flex-direction: column;
+      gap: 8px;
+    }
+
+    .code-item {
+      padding: 9px 10px;
+      border-radius: 12px;
+      background: rgba(15,23,42,0.85);
+      border: 1px solid var(--border);
+      display: flex;
+      flex-direction: column;
+      gap: 4px;
+    }
+
+    .code-label-row {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      gap: 8px;
+      font-size: 11px;
+      color: var(--muted);
+    }
+
+    .code-name {
+      font-family: "SF Mono", ui-monospace, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+      font-size: 12px;
+      background: rgba(15,23,42,0.9);
+      border-radius: 999px;
+      padding: 3px 8px;
+      border: 1px solid #1f2937;
+    }
+
+    .code-case {
+      font-size: 11px;
+      color: var(--muted);
+    }
+
+    .code-prompt {
+      margin-top: 4px;
+      font-family: "SF Mono", ui-monospace, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+      font-size: 11px;
+      padding: 6px 8px;
+      border-radius: 10px;
+      background: #020617;
+      border: 1px dashed #1f2937;
+      color: #e5e7eb;
+      word-break: break-word;
+    }
+
+    .note {
+      margin-top: 6px;
+      font-size: 11px;
+      color: var(--muted);
+    }
+
+    .section {
+      padding: 0 16px 32px;
+    }
+
+    .section-inner {
+      max-width: 1040px;
+      margin: 0 auto;
+      border-radius: 18px;
+      border: 1px solid var(--border);
+      background: rgba(15,23,42,0.9);
+      padding: 16px 16px 18px;
+    }
+
+    .section-top {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      gap: 12px;
+      margin-bottom: 10px;
+    }
+
+    .section-title {
+      font-size: 14px;
+      font-weight: 600;
+    }
+
+    .section-sub {
+      font-size: 12px;
+      color: var(--muted);
+      max-width: 480px;
+    }
+
+    .section-grid {
+      display: grid;
+      grid-template-columns: minmax(0, 1.3fr) minmax(0, 1.1fr);
+      gap: 18px;
+      font-size: 12px;
+      color: var(--muted);
+    }
+
+    .list-check {
+      list-style: none;
+      padding-left: 0;
+      margin: 8px 0 0;
+      display: flex;
+      flex-direction: column;
+      gap: 6px;
+    }
+
+    .list-check li {
+      display: flex;
+      align-items: flex-start;
+      gap: 7px;
+    }
+
+    .list-check span.icon {
+      font-size: 13px;
+      margin-top: 1px;
+    }
+
+    .section-card {
+      border-radius: 14px;
+      border: 1px solid var(--border);
+      padding: 10px 10px;
+      background: radial-gradient(circle at top, rgba(56,189,248,0.08), #020617 55%);
+    }
+
+    .section-card-title {
+      font-size: 12px;
+      font-weight: 600;
+      margin-bottom: 4px;
+    }
+
+    .footer {
+      padding: 14px 16px 24px;
+      font-size: 11px;
+      color: var(--muted);
+    }
+
+    .footer-inner {
+      max-width: 1040px;
+      margin: 0 auto;
+      display: flex;
+      justify-content: space-between;
+      gap: 10px;
+      flex-wrap: wrap;
+      align-items: center;
+    }
+
+    .footer-links {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 8px;
+    }
+
+    .footer-link {
+      padding: 4px 9px;
+      border-radius: var(--radius-pill);
+      border: 1px solid var(--border);
+      background: rgba(15,23,42,0.9);
+    }
+
+    @media (max-width: 840px) {
+      .hero-inner {
+        grid-template-columns: minmax(0, 1fr);
+      }
+      .hero-right {
+        order: -1;
+      }
+      .section-grid {
+        grid-template-columns: minmax(0, 1fr);
+      }
+      .nav {
+        padding-top: 12px;
+      }
+    }
+  </style>
+</head>
+<body>
+  <div class="page">
+    <!-- NAV -->
+    <nav class="nav">
+      <div class="nav-left">
+        <div class="avatar">J</div>
+        <div class="nav-meta">
+          <div class="nav-meta-title">Serie · IA · Claude 101</div>
+          <div class="nav-meta-name">Jonatan Correa · Códigos secretos de Claude AI</div>
+        </div>
+      </div>
+      <div class="nav-right">
+        <div class="badge">
+          <span class="badge-dot"></span>
+          <span>Funciona con la versión gratuita de Claude</span>
+        </div>
+        <a class="btn-small" href="https://github.com/jonatancorrea-ai/serie-claude-101-recursos" target="_blank" rel="noopener">
+          <span>Ver repositorio completo</span>
+        </a>
+      </div>
+    </nav>
+
+    <!-- HERO -->
+    <main class="hero">
+      <div class="hero-inner">
+        <!-- Left -->
+        <div>
+          <div class="chip">
+            <span class="chip-tag">FREE</span>
+            <span>Lista curada de prompts “modo secreto”</span>
+          </div>
+
+          <h1 class="hero-title">
+            Desbloquea los <span class="highlight">códigos secretos</span> de Claude AI
+          </h1>
+
+          <p class="hero-subtitle">
+            Una hoja de trucos rápida con modos ocultos para que la versión gratuita de Claude piense mejor, escriba más humano y te ayude a crear contenido y sistemas sin fricción.
+          </p>
+
+          <div class="hero-sub-bullet">
+            <span>✅ 100&nbsp;% compatible con la versión FREE de Claude</span>
+            <span>🧠 Enfoque práctico: pensado para creadores, negocios y consultores</span>
+          </div>
+
+          <div class="hero-cta-row">
+            <a class="btn-primary"
+               href="https://github.com/jonatancorrea-ai/serie-claude-101-recursos/blob/main/CODIGOS-SECRETOS-CLAUDE-AI/codigos-secretos-claude-ai.md"
+               target="_blank" rel="noopener">
+              <span class="icon">🔐</span>
+              <span>Ver CÓDIGOS SECRETOS CLAUDE AI</span>
+            </a>
+
+            <a class="btn-secondary"
+               href="https://github.com/jonatancorrea-ai/serie-claude-101-recursos"
+               target="_blank" rel="noopener">
+              <span>Explorar serie CLAUDE 101</span>
+            </a>
+          </div>
+
+          <div class="hero-meta">
+            <div class="hero-meta-item">
+              <span class="pill-dot"></span>
+              <span>Ideal para reels, TikToks y piezas cortas</span>
+            </div>
+            <div class="hero-meta-item">
+              <span class="pill-dot" style="background: #eab308;"></span>
+              <span>Incluye modos de razonamiento, tono, formato y creatividad</span>
+            </div>
+          </div>
+        </div>
+
+        <!-- Right: preview of some codes -->
+        <aside class="hero-right">
+          <div class="card-header">
+            <div class="card-title">
+              <span>Snapshot de los códigos</span>
+              <span class="card-title-pill">Vista previa</span>
+            </div>
+            <div class="status-dot"></div>
+          </div>
+
+          <ul class="code-list">
+            <li class="code-item">
+              <div class="code-label-row">
+                <span class="code-name">x10think</span>
+                <span>Razonamiento extendido</span>
+              </div>
+              <div class="code-case">Haz que Claude piense más despacio cuando la lógica importa.</div>
+              <div class="code-prompt">
+                x10think: Analiza la paradoja de Fermi y encuentra 3 soluciones que no involucren la extinción de especies.
+              </div>
+            </li>
+
+            <li class="code-item">
+              <div class="code-label-row">
+                <span class="code-name">/human</span>
+                <span>Tono natural</span>
+              </div>
+              <div class="code-case">Evita textos que suenen a “IA genérica” y hazlos más cercanos.</div>
+              <div class="code-prompt">
+                /human: Escríbeme un mensaje para WhatsApp invitando a un cliente a un café, sé cercano y un poco informal.
+              </div>
+            </li>
+
+            <li class="code-item">
+              <div class="code-label-row">
+                <span class="code-name">ULTRA-CONCISE</span>
+                <span>Respuesta sin relleno</span>
+              </div>
+              <div class="code-case">Cuando quieres solo la respuesta, sin “Hola, con gusto te ayudo…”.</div>
+              <div class="code-prompt">
+                ULTRA-CONCISE: Dame una lista de 5 herramientas de IA para edición de video.
+              </div>
+            </li>
+          </ul>
+
+          <p class="note">
+            En el documento completo tienes más modos: control de alucinaciones, formatos en tabla/JSON, creatividad, memoria virtual y planificación de escenarios.
+          </p>
+        </aside>
+      </div>
+    </main>
+
+    <!-- SECTION: Cómo usarlo -->
+    <section class="section">
+      <div class="section-inner">
+        <div class="section-top">
+          <div>
+            <div class="section-title">Cómo usar estos códigos en tu día a día</div>
+            <p class="section-sub">
+              No es una lista teórica: la idea es que copies, pegues y adaptes los códigos secretos de Claude a tu propio contexto de contenidos, negocio o consultoría.
+            </p>
+          </div>
+        </div>
+
+        <div class="section-grid">
+          <div>
+            <ul class="list-check">
+              <li>
+                <span class="icon">①</span>
+                <span>Abre Claude en su versión web, con tu cuenta gratuita.</span>
+              </li>
+              <li>
+                <span class="icon">②</span>
+                <span>Copia uno de los códigos (por ejemplo, <code>x10think</code>) y pégalo al inicio de tu prompt.</span>
+              </li>
+              <li>
+                <span class="icon">③</span>
+                <span>Ajusta el caso a tu realidad: en lugar de un ejemplo genérico, usa tu cliente, tu nicho o tu proyecto.</span>
+              </li>
+              <li>
+                <span class="icon">④</span>
+                <span>Guarda los prompts que mejor funcionen en tu propio sistema (Notion, Google Docs, GitHub…).</span>
+              </li>
+            </ul>
+          </div>
+
+          <div class="section-card">
+            <div class="section-card-title">Algunos usos típicos</div>
+            <ul class="list-check">
+              <li>
+                <span class="icon">🔥</span>
+                <span>Refinar guiones de vídeos cortos para TikTok, Reels o YouTube Shorts.</span>
+              </li>
+              <li>
+                <span class="icon">📈</span>
+                <span>Crear frameworks de contenido y sistemas de publicación más consistentes.</span>
+              </li>
+              <li>
+                <span class="icon">🧩</span>
+                <span>Explorar decisiones y escenarios para productos, servicios o lanzamientos.</span>
+              </li>
+              <li>
+                <span class="icon">🧠</span>
+                <span>Entender conceptos complejos con analogías, resúmenes y explicaciones ELI5.</span>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- FOOTER -->
+    <footer class="footer">
+      <div class="footer-inner">
+        <div>Creado por Jonatan Correa · Serie CLAUDE 101 · Consultor y divulgador de IA.</div>
+        <div class="footer-links">
+          <a class="footer-link" href="https://github.com/jonatancorrea-ai" target="_blank" rel="noopener">GitHub</a>
+          <a class="footer-link" href="https://www.tiktok.com/@jonatancorreaoficial" target="_blank" rel="noopener">TikTok</a>
+          <a class="footer-link" href="https://www.instagram.com/soyjonatancorrea" target="_blank" rel="noopener">Instagram</a>
+          <a class="footer-link" href="https://linktr.ee/soyjonatancorrea" target="_blank" rel="noopener">Más enlaces</a>
+        </div>
+      </div>
+    </footer>
+  </div>
+</body>
+</html>
