@@ -16,7 +16,7 @@ Recursos gratuitos de la serie **CLAUDE 101: De novato a experto ⚡** para que 
 
 ## 🗂️ Recursos disponibles
 
-### 🔐 Códigos en lenaguaje natural
+### 🔐 Códigos en lenguaje natural
 
 | Recurso | Descripción |
 |--------|-------------|
