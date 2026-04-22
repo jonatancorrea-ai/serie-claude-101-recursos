@@ -23,11 +23,10 @@ Recursos gratuitos de la serie **CLAUDE 101: De novato a experto ⚡** para que 
 | [![Códigos Secretos Claude AI](https://img.shields.io/badge/Códigos%20Secretos%20Claude%20AI-0f071e?style=for-the-badge&logoColor=f7f7f7)](CODIGOS-SECRETOS-CLAUDE-AI/codigos-secretos-claude-ai.md) | Los códigos ocultos que tiene Claude para darte mejores respuestas |
 
 ### ⚡ SKILLS 101
-|   |   |
+
 |---|---|
 | Recurso | Descripción |
 | [Skill Emails](skill-emails/skill-responder-correos-gmail.md) | Skill que te ayudará a responder correos en Gmail utilizando tu tono y estilo de comunicación. |
-
 ### 📝 Plantillas de prompts inteligentes
 
 | Recurso | Descripción |
