@@ -26,7 +26,7 @@ Recursos gratuitos de la serie **CLAUDE 101: De novato a experto ⚡** para que 
 |   |   |
 |---|---|
 | Recurso | Descripción |
-| [](https://github.com/jonatancorrea-ai/skill-emails) | Skill que te ayudará a responder correos en Gmail utilizando tu tono y estilo de comunicación. |
+| [](https://github.com/jonatancorrea-ai/skill-emails/blob/main/skill-responder-emails-gmail.md) | Skill que te ayudará a responder correos en Gmail utilizando tu tono y estilo de comunicación. |
 
 ### 📝 Plantillas de prompts inteligentes
 
