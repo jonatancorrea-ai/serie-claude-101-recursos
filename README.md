@@ -27,6 +27,7 @@ Recursos gratuitos de la serie **CLAUDE 101: De novato a experto ⚡** para que 
 | Recurso | Descripción |
 |--------|-------------|
 | [![Skill Emails](https://img.shields.io/badge/Skill%20Emails-0f071e?style=for-the-badge&logoColor=f7f7f7)](https://github.com/jonatancorrea-ai/skill-emails/blob/main/skill-responder-emails-gmail.md) | Skill que te ayudará a responder correos en Gmail utilizando tu tono y estilo de comunicación. |
+| [![Skill Presentaciones](https://img.shields.io/badge/Skill%20Presentaciones-0f071e?style=for-the-badge&logoColor=f7f7f7)](https://github.com/jonatancorrea-ai/claude-skills/blob/main/presentaciones/skill-crear-presentaciones.md) | Skill que te ayudará a crear presentaciones proefesionales y estructuradas manteniendo tu estilo de comunicación. |
 
 ### 📝 Plantillas de prompts inteligentes
 
